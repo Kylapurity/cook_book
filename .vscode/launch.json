@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        
+
+        {
+            "name": "cook_book (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
